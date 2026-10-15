@@ -48,15 +48,6 @@ npm install
 # 2. Start Vite local server (http://localhost:5173)
 npm run dev
 ```
-
----
-
-## 🌐 1-Click Deploy to Vercel
-
-1. Push this extracted folder to a new **GitHub Repository**.
-2. Go to [vercel.com/new](https://vercel.com/new) and import your repository.
-3. Click **Deploy**! Vercel automatically builds the React Vite frontend and deploys `/api/health`, `/api/foods`, and `/api/tdee` as Serverless Functions.
-
 ---
 
 ## © Copyright & Intellectual Property
